@@ -1,6 +1,7 @@
 # FlixGPT
 
 Netflix-inspired streaming platform with AI-powered features.
+![FlixGPT Login Page](./screenshots/login-page.png)
 
 ## Features
 - Netflix-style UI with movie/show browsing
